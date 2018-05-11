@@ -11,4 +11,4 @@ WORKDIR $APPROOT
 
 RUN pip install -r requirements.txt
 
-CMD ["reconall.py", "--json"]
+CMD ["reconall.py", "--help"]
