@@ -28,7 +28,7 @@ class ReconAll(ChrisApp):
     TYPE            = 'ds'
     DESCRIPTION     = 'A plugin app for Freesurfer reconstruction of brain surfaces'
     DOCUMENTATION   = 'http://wiki'
-    VERSION         = '0.1'
+    VERSION         = '0.1.1'
     LICENSE         = 'Opensource (MIT)'
     MAX_NUMBER_OF_WORKERS = 1  # Override with integer value
     MIN_NUMBER_OF_WORKERS = 1  # Override with integer value
